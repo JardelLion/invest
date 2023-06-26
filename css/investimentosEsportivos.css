@@ -1,0 +1,31 @@
+body {
+    background-color: #fff;
+}
+.about {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90%;
+    margin: 100px auto 150px auto;
+    
+    height: 100%;
+
+   
+  
+}
+.about .content {
+    width: 100%;
+   
+}
+
+.about h3 {
+    color: #f24405;
+    font-size: 4rem ;
+}
+
+.about p {
+    font-size: 2.5rem;
+    line-height: 1.4;
+    margin: 10px 0;
+}
+
